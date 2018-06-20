@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+
+table{
+    width:60%;
+    margin: auto;
+    font-size: 1.5m;
+    }
+td{
+    border-bottom: 3px solid red;
+}
